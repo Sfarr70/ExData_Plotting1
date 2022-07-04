@@ -46,7 +46,7 @@ sub3 <- powerdb$Sub_metering_3
 
 ## Create PNG file with dims of 480x480.
 
-png(file="plot3.png", width=480, height=480)
+png(file="plot4.png", width=480, height=480)
 
 ## Set output for 2 rows and 2 columns
 
